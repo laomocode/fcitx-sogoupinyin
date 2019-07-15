@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+  <mime-type type="application/x-sogouskin">
+    <comment>Sogou input method skin</comment>
+    <comment xml:lang="zh-CN">搜狗拼音输入法皮肤</comment>
+    <comment xml:lang="zh-TW">搜狗输入法皮膚</comment>
+    <glob pattern="*.ssf"/>
+  </mime-type>
+  <mime-type type="application/x-scel">
+    <comment>Sogou Cell Dictionary</comment>
+    <comment xml:lang="zh-CN">搜狗细胞词库</comment>
+    <comment xml:lang="zh-TW">搜狗細胞詞庫</comment>
+    <glob pattern="*.scel"/>
+  </mime-type>
+</mime-info>

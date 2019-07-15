@@ -1,0 +1,6 @@
+[org.gnome.settings-daemon.plugins.keyboard]
+active=false
+[org.gnome.settings-daemon.plugins.xsettings]
+Gtk/IMModule=fcitx
+[com.canonical.indicator.keyboard]
+visible=false
