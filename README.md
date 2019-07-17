@@ -1,6 +1,7 @@
 # 搜狗输入法2.3.0.0109打包工程
 ![关于](http://yanxuan.nosdn.127.net/e902f7696f3141980390f4fb4435bc11.png)
-# [点击下载](https://gitee.com/laomocode/fcitx-sogoupinyin/releases)
+# [码云下载](https://gitee.com/laomocode/fcitx-sogoupinyin/releases)
+# [Github下载](https://github.com/laomocode/fcitx-sogoupinyin/releases)
 ## 如何使用？
 ### Arch Linux系
 - 第一步，在下载页面里下载后缀为`.pkg.tar.xz`安装文件。
