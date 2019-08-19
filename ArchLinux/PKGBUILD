@@ -2,7 +2,7 @@
 # Contributor: Jove Yu <yushijun110 [AT] gmail.com>
 # Contributor: csslayer <wengxt [AT] gmail.com>
 # Contributor: Felix Yan <felixonmars [AT] gmail.com>
-
+# Contributor: Mike Tong <3344907598 [AT] qq.com>
 pkgname=fcitx-sogoupinyin
 pkgver=2.3.0.0109
 pkgrel=2
