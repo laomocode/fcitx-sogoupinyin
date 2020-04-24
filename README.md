@@ -1,4 +1,16 @@
 # 搜狗输入法2.3.0.0109打包工程
+```
+这个工程弃坑了。
+为什么弃坑呢？因为这个版本的搜狗输入法有很多问题，例如皮肤的问题、稳定性的问题……
+而且，随着软件的更新，这个版本在最新的ArchLinux中似乎也没法使用了。
+短暂的Qt5版本因为各种Bug，退回了Qt4。
+至于这个版本的后续，我们也搞出来了。
+在最近发布的Ubuntu Kylin 20.04 LTS中，里面的搜狗输入法变成了优麒麟的社区版。点开官网一看，这版本似乎是定制的版本。
+于是我们打包出来，分享给大家。
+哦，对了，这个版本不但会打包Arch Linux的版本，还会打包Ubuntu的版本。
+因为最新的20.04删掉了Qt4，之前的版本没法用了。
+地址：https://gitee.com/laomocode/fcitx-sogouimebs
+```
 ![关于](http://yanxuan.nosdn.127.net/e902f7696f3141980390f4fb4435bc11.png)
 # [码云下载](https://gitee.com/laomocode/fcitx-sogoupinyin/releases)
 # [Github下载](https://github.com/laomocode/fcitx-sogoupinyin/releases)
